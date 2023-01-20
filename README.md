@@ -1,5 +1,7 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
+## DATE: 11.01.2023
+## NAME: RAJA R
+## REF NO: 22004914
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -42,6 +44,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![EX 1 1](https://user-images.githubusercontent.com/120719634/213675509-ffb445d2-4f9e-4637-8e87-145e3d5f64f9.png)
+
 
 
 ## RESULT
